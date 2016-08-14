@@ -8,6 +8,7 @@
 		"xlsx": "./bin/xlsx.njs"
 	},
 	"main": "./xlsx",
+	"registry": "npm",
 	"dependencies": {
 		"ssf":"~0.8.1",
 		"codepage":"~1.3.6",
